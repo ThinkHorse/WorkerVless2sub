@@ -1,5 +1,4 @@
-# wrangler.toml
-name = 'worker-subscriber'
+name = "vless2sub-worker"
 main = "_worker.js"
 compatibility_date = "2025-07-08"
 keep_vars = true
